@@ -44,7 +44,7 @@ Esta es la lista de asistentes al taller:
 
 15- ...
 
-16- ...
+16- Maria Isabel Castrejón
 
 17- ...
 
@@ -88,5 +88,4 @@ Muchas gracias a todas, esperamos que os haya gustado y practicar mucho!!!
 
 > Agradecimientos:
 > A RLadies por la oportunidad, a Campus de Google por ofrecer el espacio y los medios para realizar el taller y a las asistentes por su interés y esfuerzo.
-
 ![Thanks](https://media.giphy.com/media/3oEjHWXddcCOGZNmFO/giphy.gif)
